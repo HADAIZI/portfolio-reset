@@ -25,7 +25,7 @@ const Footer: React.FC = () => {
         <div style={styles.footerLeft}>
           <h2 style={styles.heading}>Let&apos;s Work Together</h2>
           <p style={styles.text}>
-          I&apos;m actively seeking new opportunities, and my inbox is always open. Whether you have a question or just want to say hello, I'll do my best to respond!
+          I&apos;m actively seeking new opportunities, and my inbox is always open. Whether you have a question or just want to say hello, I&apos;ll do my best to respond!
           </p>
         </div>
         <div style={styles.footerRight}>

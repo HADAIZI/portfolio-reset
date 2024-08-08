@@ -91,7 +91,7 @@ const projectsData = [
     id: 10,
     title: "Shinkaigan",
     description: "Part of the Shinkaigan research project, this GAN model generates a anime picture from aa skech image based on Makoto Shinkai style using Unet architecture. The model is trained on a dataset of anime sketches and images to learn the mapping between the two domains.",
-    image: "/images/shinkaigan.jpeg",
+    image: "/images/shinkaigan.png",
     tag: ["All", "Machine Learning"],
     gitUrl: "https://github.com/echelon2718/ShinkaiGAN",
     previewUrl: "Project Link",
@@ -99,11 +99,12 @@ const projectsData = [
   {
     id: 11,
     title: "Batikhub",
-    description: "BatikHub is an application designed to classify various types of batik motifs based on user input. This application not only functions as a classification tool, but also as an educational tool regarding the history and meaning behind each identified batik motif. The results of the motif prediction will be stored in the history page, making it easier for users to access and learn about previously explored batik motifs. "
-    image: "/images/Batikhub.jpeg",
+    description: "BatikHub is an application designed to classify various types of batik motifs based on user input. This application not only functions as a classification tool, but also as an educational tool regarding the history and meaning behind each identified batik motif. The results of the motif prediction will be stored in the history page, making it easier for users to access and learn about previously explored batik motifs. ",
+    image: "/images/batikhub.png",
     tag: ["All", "Machine Learning"],
     gitUrl: "https://github.com/VanGarman21/BatikHub",
     previewUrl: "Project Link",
+  }
 
 ];
 
